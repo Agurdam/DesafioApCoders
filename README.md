@@ -25,9 +25,9 @@ ________________________________________________________________________________
 
 Script para criação do banco de dados:
 
-CREATE DATABASE desafioap
+CREATE DATABASE desafioap;
 
-USE desafioap
+USE desafioap;
 
 CREATE TABLE `despesas` (
   `id` int(11) NOT NULL,
